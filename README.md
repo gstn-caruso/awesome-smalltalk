@@ -6,3 +6,11 @@
 A categorized community-driven collection of awesome Smalltalk libraries, tools, frameworks, papers and software.
 
 Sharing, suggestions and contributions are always welcome! Just open a Pull request and that's it.
+
+- [Awesome Smalltalk](#awesome-smalltalk)
+- [Resources](#resources)
+    - [Media](#media)
+    
+# Resources
+## Media
+* [Argentinian Smalltalk conference videos](https://www.youtube.com/user/FASTFoundation/playlists)
