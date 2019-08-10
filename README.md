@@ -8,9 +8,28 @@ A categorized community-driven collection of awesome Smalltalk libraries, tools,
 Sharing, suggestions and contributions are always welcome! Just open a Pull request and that's it.
 
 - [Awesome Smalltalk](#awesome-smalltalk)
+- [Implementations](#implementations)
+    - [Cuis smalltalk]
+    - [GNU Smalltalk]
+    - [Pharo]
+    - [Smalltalk/X]
+    - [VA Smalltalk]
 - [Resources](#resources)
     - [Media](#media)
     
+# Implementations
+* [Amber Smalltalk, runs on JavaScript](https://amber-lang.net/)
+* [Cuis smalltalk](https://cuis-smalltalk.org/)
+* [GNU Smalltalk](http://smalltalk.gnu.org/)
+* [GemTalk Systems, GemStone/S](https://gemtalksystems.com/)
+* [Pharo Smalltalk](https://pharo.org/)
+* [Smalltalk/X](https://www.exept.de/smalltalk-x.html)
+* [Squeak](https://squeak.org/)
+* [Strongtalk, for Windows, offers optional strong typing](http://strongtalk.org/)
+* [VisualAge Smalltalk](https://www.instantiations.com/products/vasmalltalk/)
+* [VisualWorks](http://www.cincomsmalltalk.com/main/products/visualworks/)
+* [eToys, a visual programming system for learning](http://www.squeakland.org/)
+ 
 # Resources
 ## Media
 * [Argentinian Smalltalk conference videos](https://www.youtube.com/user/FASTFoundation/playlists)
