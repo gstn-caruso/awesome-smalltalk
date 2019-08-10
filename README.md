@@ -9,11 +9,6 @@ Sharing, suggestions and contributions are always welcome! Just open a Pull requ
 
 - [Awesome Smalltalk](#awesome-smalltalk)
 - [Implementations](#implementations)
-    - [Cuis smalltalk]
-    - [GNU Smalltalk]
-    - [Pharo]
-    - [Smalltalk/X]
-    - [VA Smalltalk]
 - [Resources](#resources)
     - [Media](#media)
     
