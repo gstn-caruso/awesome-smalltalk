@@ -28,3 +28,7 @@ Sharing, suggestions and contributions are always welcome! Just open a Pull requ
 # Resources
 ## Media
 * [Argentinian Smalltalk conference videos](https://www.youtube.com/user/FASTFoundation/playlists)
+
+## History
+* [Design Principles Behind Smalltalk](http://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
+* [The Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
