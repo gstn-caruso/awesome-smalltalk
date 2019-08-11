@@ -11,6 +11,8 @@ Sharing, suggestions and contributions are always welcome! Just open a Pull requ
 - [Resources](#resources)
   - [Media](#media)
   - [History](#history)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Implementations
 
@@ -36,3 +38,11 @@ Sharing, suggestions and contributions are always welcome! Just open a Pull requ
 
 - [Design Principles Behind Smalltalk](http://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 - [The Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
