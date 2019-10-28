@@ -33,6 +33,7 @@ Sharing, suggestions and contributions are always welcome! Just open a Pull requ
 ### Media
 
 - [Argentinian Smalltalk conference videos](https://www.youtube.com/user/FASTFoundation/playlists)
+- [ESUG YouTube channel](https://www.youtube.com/user/esugboard)
 
 ### History
 
