@@ -44,7 +44,7 @@ Sharing, suggestions and contributions are always welcome! Just open a Pull requ
 
 ## Frameworks
 
-### Web
+### Web frameworks
 
 - [Cuis web](https://github.com/gstn-caruso/cuis-web)
 - [Iliad](https://iliadproject.github.io/)
