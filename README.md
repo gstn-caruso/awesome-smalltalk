@@ -11,6 +11,8 @@ Sharing, suggestions and contributions are always welcome! Just open a Pull requ
 - [Resources](#resources)
   - [Media](#media)
   - [History](#history)
+- [Frameworks](#frameworks)
+  - [Web](#web-frameworks)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -39,6 +41,15 @@ Sharing, suggestions and contributions are always welcome! Just open a Pull requ
 
 - [Design Principles Behind Smalltalk](http://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 - [The Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
+
+## Frameworks
+
+### Web
+
+- [Cuis web](https://github.com/gstn-caruso/cuis-web)
+- [Iliad](https://iliadproject.github.io/)
+- [Seaside](https://github.com/seasidest/seaside)
+- [Teapot, micro web framework for Pharo Smalltalk](https://github.com/zeroflag/Teapot)
 
 ## Contribute
 
