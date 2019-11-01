@@ -2,6 +2,8 @@
 
 [<img src="https://github.com/gstn-caruso/awesome-smalltalk/blob/master/smalltalk-logo.png?raw=true" align="right" width="160">](https://en.wikipedia.org/wiki/Smalltalk)
 
+[![Build Status](https://travis-ci.com/gstn-caruso/awesome-smalltalk.svg?branch=master)](https://travis-ci.com/gstn-caruso/awesome-smalltalk)
+
 A categorized community-driven collection of awesome Smalltalk libraries, tools, frameworks, papers and software.
 
 Sharing, suggestions and contributions are always welcome! Just open a Pull request and that's it.
