@@ -44,6 +44,10 @@ Sharing, suggestions and contributions are always welcome! Just open a Pull requ
 - [Design Principles Behind Smalltalk](http://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 - [The Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
 
+### Object-Oriented Design
+
+- [Designing Reusable Classes](http://laputan.org/drc.html), from Ralph Johnson & Brian Foote 
+
 ## Frameworks
 
 ### Web frameworks
