@@ -1,4 +1,4 @@
-# Awesome Smalltalk [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Smalltalk [![Awesome](http://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://github.com/gstn-caruso/awesome-smalltalk/blob/master/smalltalk-logo.png?raw=true" align="right" width="160">](https://en.wikipedia.org/wiki/Smalltalk)
 
