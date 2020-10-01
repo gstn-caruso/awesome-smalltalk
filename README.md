@@ -58,7 +58,7 @@ Sharing, suggestions and contributions are always welcome! Just open a Pull requ
 - [Seaside](https://github.com/seasidest/seaside)
 - [Teapot, micro web framework for Pharo Smalltalk](https://github.com/zeroflag/Teapot)
 
-### Version mmanagemente
+### Version management
 - [Monticello](https://wiki.squeak.org/squeak/1287) - Version control system
 - [Metacello](https://github.com/Metacello/metacello) - Package management for Monticello (can integrate with git!)
 
