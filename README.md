@@ -15,6 +15,8 @@ Sharing, suggestions and contributions are always welcome! Just open a Pull requ
   - [History](#history)
 - [Frameworks](#frameworks)
   - [Web](#web-frameworks)
+  - [VCS](#version-management)
+  - [Games](#game-engines)
   - [Other tools](#other-tools)
 - [Contribute](#contribute)
 - [License](#license)
