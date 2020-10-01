@@ -15,6 +15,7 @@ Sharing, suggestions and contributions are always welcome! Just open a Pull requ
   - [History](#history)
 - [Frameworks](#frameworks)
   - [Web](#web-frameworks)
+  - [Other tools](#other-tools)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -48,7 +49,7 @@ Sharing, suggestions and contributions are always welcome! Just open a Pull requ
 
 - [Designing Reusable Classes](http://laputan.org/drc.html), from Ralph Johnson & Brian Foote 
 
-## Frameworks
+## Frameworks / Tools
 
 ### Web frameworks
 
@@ -56,6 +57,10 @@ Sharing, suggestions and contributions are always welcome! Just open a Pull requ
 - [Iliad](https://iliadproject.github.io/)
 - [Seaside](https://github.com/seasidest/seaside)
 - [Teapot, micro web framework for Pharo Smalltalk](https://github.com/zeroflag/Teapot)
+
+### Other tools
+
+- [NeoJSON](https://github.com/svenvc/NeoJSON) - Framework for working with JSON as Smalltak objects
 
 ## Contribute
 
