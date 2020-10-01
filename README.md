@@ -62,6 +62,9 @@ Sharing, suggestions and contributions are always welcome! Just open a Pull requ
 - [Monticello](https://wiki.squeak.org/squeak/1287) - Version control system
 - [Metacello](https://github.com/Metacello/metacello) - Package management for Monticello (can integrate with git!)
 
+### Game engines
+- [Winter](https://github.com/ba-st/Winter) - 2D game engine for Pharo
+
 ### Other tools
 
 - [NeoJSON](https://github.com/svenvc/NeoJSON) - Framework for working with JSON as Smalltak objects
