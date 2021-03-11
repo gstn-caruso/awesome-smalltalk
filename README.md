@@ -67,6 +67,11 @@ Sharing, suggestions and contributions are always welcome! Just open a Pull requ
 ### Game engines
 - [Winter](https://github.com/ba-st/Winter) - 2D game engine for Pharo
 
+### Testing
+
+- [Simple Smalltalk Testing:
+With Patterns](https://live.exept.de/doc/online/english/tools/misc/testfram.htm) - Publication that introduces the SUnit testing framework, by Kent Beck
+
 ### Other tools
 
 - [NeoJSON](https://github.com/svenvc/NeoJSON) - Framework for working with JSON as Smalltak objects
