@@ -24,7 +24,7 @@ Sharing, suggestions and contributions are always welcome! Just open a Pull requ
 ## Implementations
 
 - [Amber Smalltalk, runs on JavaScript](https://amber-lang.net/)
-- [Cuis smalltalk](http://cuis-smalltalk.org/)
+- [Cuis smalltalk](http://cuis.st)
 - [GNU Smalltalk](http://smalltalk.gnu.org/)
 - [GemTalk Systems, GemStone/S](https://gemtalksystems.com/)
 - [Pharo Smalltalk](https://pharo.org/)
